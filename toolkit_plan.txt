@@ -1,0 +1,26 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+1. Number Guessing Game
+The game asks the user to guess a secret number between 1 and 10 and gives hints until the answer is correct.
+Concepts: variables, input, int conversion, while loop, conditionals, and f-strings.
+
+2. To-Do List
+The user can add tasks, view the current tasks, and remove a task by its number.
+Concepts: lists, append(), pop(), for loop, conditionals, input, and f-strings.
+
+3. Simple Calculator
+The calculator asks for two numbers and an operation, then displays the answer or explains an invalid operation.
+Concepts: variables, float conversion, conditionals, arithmetic, and f-strings.
+
+EXACT MENU TEXT
+
+Welcome to Your Personal Mini-Toolkit!
+Choose a tool:
+1. Number Guessing Game
+2. To-Do List
+3. Simple Calculator
+4. Quit
+Enter your choice (1-4):
+
+The menu repeats after a tool finishes. If the user enters anything other than 1, 2, 3, or 4, the program displays:
+"Sorry, that is not a valid choice. Please enter 1, 2, 3, or 4."
